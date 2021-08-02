@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201024/pngtree-minimal-cylinder-podium-scene-with-geometrical-forms-image_435987.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+
+}
+
+div#form1{
+background-color:#666060;
+border-radius:3px;
+float:left;
+text-align:center;
+margin-left:100px;
+margin-top:50px
+}
+h3,p{
+text-align:center;
+font-family:'Raleway',sans-serif;
+color:#4d05c0
+}
+input{
+width:95%;
+margin:10px 0;
+padding:5px; 
+height:35px; 
+box-shadow:1px 1px 1px 1px gray;
+}
+input#submit{
+background-color:#3fb8e8;
+color:rgb(2, 2, 2);
+height:41px;
+font-size:16px
+}
+textarea{
+width: 80%;    
+height: 50px;
+box-shadow:1px 1px 1px 1px gray;
+}   
+h2{
+font-family:'Raleway',sans-serif;
+color:#006400;
+text-shadow:1px 1px 1px gray;
+text-align: center;
+}
